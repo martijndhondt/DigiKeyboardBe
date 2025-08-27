@@ -178,7 +178,7 @@ const uint16_t ascii_to_scan_code_table_be[] PROGMEM = {
         28|BE_MOD_SHIFT_LEFT, // Y
         26|BE_MOD_SHIFT_LEFT, // Z
         34|BE_MOD_ALT_RIGHT,  // [
-        29|BE_MOD_ALT_RIGHT,  // bslash
+        100|BE_MOD_ALT_RIGHT,  // bslash
         48|BE_MOD_ALT_RIGHT,  // ]
         47,                   // ^
         46|BE_MOD_SHIFT_LEFT, // _
